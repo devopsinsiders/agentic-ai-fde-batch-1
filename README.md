@@ -28,8 +28,11 @@ This repository is an enterprise-grade knowledge base, code registry, and lab la
 agentic-ai-fde-batch-1/
 ├── 📁 Assignments/             # Hands-on challenges, design tasks & lab submissions
 ├── 📁 ClassNotes/              # Comprehensive lecture notes, diagrams & architectural briefs
-│   └── 📁 001.IntroductionToAgenticAI-11-10-2026/
-│       ├── diagram.pdf         # Architecture & curriculum source schematic
+│   ├── 📁 001.AIYatra-AxionSystemsAI-21-06-2026/
+│   │   ├── diagram.pdf         # Global IoT topology & MCP agent schematic
+│   │   └── notes.md            # Notes on enterprise agentic architecture & MCP
+│   └── 📁 002.IntroductionToAgenticAI-11-10-2026/
+│       ├── diagram.pdf         # Thermal power plant & curriculum schematic
 │       └── notes.md            # Detailed technical lecture notes & breakdown
 ├── 📁 CodeSamples/             # Production snippets, starter templates & utility scripts
 ├── LICENSE                     # Open source license
@@ -40,7 +43,8 @@ agentic-ai-fde-batch-1/
 - [📂 Assignments](file:///c:/DevOpsInsiders/AgenticAIBatch1/agentic-ai-fde-batch-1/Assignments)
 - [📂 Class Notes](file:///c:/DevOpsInsiders/AgenticAIBatch1/agentic-ai-fde-batch-1/ClassNotes)
 - [📂 Code Samples](file:///c:/DevOpsInsiders/AgenticAIBatch1/agentic-ai-fde-batch-1/CodeSamples)
-- [📄 Session 001 Notes](file:///c:/DevOpsInsiders/AgenticAIBatch1/agentic-ai-fde-batch-1/ClassNotes/001.IntroductionToAgenticAI-11-10-2026/notes.md)
+- [📄 Session 001 Notes: AI Yatra (21-06-2026)](file:///c:/DevOpsInsiders/AgenticAIBatch1/agentic-ai-fde-batch-1/ClassNotes/001.AIYatra-AxionSystemsAI-21-06-2026/notes.md)
+- [📄 Session 002 Notes: Intro to Agentic AI (11-10-2026)](file:///c:/DevOpsInsiders/AgenticAIBatch1/agentic-ai-fde-batch-1/ClassNotes/002.IntroductionToAgenticAI-11-10-2026/notes.md)
 
 ---
 
@@ -76,10 +80,11 @@ graph TD
 
 | Session ID | Date | Topic | Key Deliverables | Status |
 | :---: | :---: | :--- | :--- | :---: |
-| **001** | 11-10-2026 | **Introduction to Agentic AI & Engineering Paradigm Shift** | • [Session 001 Notes](file:///c:/DevOpsInsiders/AgenticAIBatch1/agentic-ai-fde-batch-1/ClassNotes/001.IntroductionToAgenticAI-11-10-2026/notes.md)<br>• [Architecture Diagram](file:///c:/DevOpsInsiders/AgenticAIBatch1/agentic-ai-fde-batch-1/ClassNotes/001.IntroductionToAgenticAI-11-10-2026/diagram.pdf)<br>• Thermal Power Plant IoT Study<br>• Team Economics & FDE Model | Completed ✅ |
-| **002** | *TBA* | **Advanced Python & Async Workflows for AI Engineers** | • Code samples & API contracts | Scheduled ⏳ |
-| **003** | *TBA* | **Vector Databases & Production RAG Pipelines** | • Autonomous web-scraper knowledge ingestor | Scheduled ⏳ |
-| **004** | *TBA* | **Multi-Agent Orchestration with LangGraph & MCP** | • Stateful graph agents & tool protocol | Scheduled ⏳ |
+| **001** | 21-06-2026 | **AI Yatra: Enterprise Agentic Architecture & Axion Systems** | • [Session 001 Notes](file:///c:/DevOpsInsiders/AgenticAIBatch1/agentic-ai-fde-batch-1/ClassNotes/001.AIYatra-AxionSystemsAI-21-06-2026/notes.md)<br>• [Architecture Diagram](file:///c:/DevOpsInsiders/AgenticAIBatch1/agentic-ai-fde-batch-1/ClassNotes/001.AIYatra-AxionSystemsAI-21-06-2026/diagram.pdf)<br>• Axion 5-Location Global IoT Topology<br>• The Triad: Brain, Memory, Hands (MCP) | Completed ✅ |
+| **002** | 11-10-2026 | **Introduction to Agentic AI & Engineering Paradigm Shift** | • [Session 002 Notes](file:///c:/DevOpsInsiders/AgenticAIBatch1/agentic-ai-fde-batch-1/ClassNotes/002.IntroductionToAgenticAI-11-10-2026/notes.md)<br>• [Architecture Diagram](file:///c:/DevOpsInsiders/AgenticAIBatch1/agentic-ai-fde-batch-1/ClassNotes/002.IntroductionToAgenticAI-11-10-2026/diagram.pdf)<br>• Thermal Power Plant IoT Study<br>• Team Economics & FDE Model | Completed ✅ |
+| **003** | *TBA* | **Advanced Python & Async Workflows for AI Engineers** | • Code samples & API contracts | Scheduled ⏳ |
+| **004** | *TBA* | **Vector Databases & Production RAG Pipelines** | • Autonomous web-scraper knowledge ingestor | Scheduled ⏳ |
+| **005** | *TBA* | **Multi-Agent Orchestration with LangGraph & MCP** | • Stateful graph agents & tool protocol | Scheduled ⏳ |
 
 ---
 

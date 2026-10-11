@@ -1,9 +1,9 @@
-# 001. Introduction to Agentic AI & Engineering Paradigm Shift
+# 002. Introduction to Agentic AI & Engineering Paradigm Shift
 
 **Date:** October 11, 2026  
-**Session:** 001  
+**Session:** 002  
 **Batch:** Agentic AI & FDE – Batch 1  
-**Source Reference:** [`diagram.pdf`](file:///c:/DevOpsInsiders/AgenticAIBatch1/agentic-ai-fde-batch-1/ClassNotes/001.IntroductionToAgenticAI-11-10-2026/diagram.pdf)
+**Source Reference:** [`diagram.pdf`](file:///c:/DevOpsInsiders/AgenticAIBatch1/agentic-ai-fde-batch-1/ClassNotes/002.IntroductionToAgenticAI-11-10-2026/diagram.pdf)
 
 ---
 
